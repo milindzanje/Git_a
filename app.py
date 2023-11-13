@@ -1,1 +1,1 @@
-print ("This is my fourth version of my Komcluod ") 
+print ("This is my 4th version of my Komcluod ") 
